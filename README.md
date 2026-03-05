@@ -19,6 +19,8 @@ TeamsAlive is a lightweight, open-source utility designed for remote workers who
 
 ## 👤 For end users — no Python needed
 
+Check Releases in https://github.com/philippo-source/teams-alive/releases
+
 ### Windows
 1. Double-click **`TeamsAlive-Setup.exe`**
 2. Follow the wizard (Next → Install → Finish)
